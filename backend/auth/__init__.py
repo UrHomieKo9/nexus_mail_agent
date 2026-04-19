@@ -1,0 +1,1 @@
+"""Nexus Mail Agent — OAuth2 authentication for Gmail and Outlook."""

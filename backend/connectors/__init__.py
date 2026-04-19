@@ -1,0 +1,1 @@
+"""Nexus Mail Agent — email provider connectors."""

@@ -1,0 +1,1 @@
+"""Nexus Mail Agent — semantic memory and profiling."""

@@ -1,0 +1,1 @@
+"""Jitter engine — anti-spam send variation system."""

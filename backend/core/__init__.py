@@ -1,0 +1,1 @@
+"""Nexus Mail Agent — core configuration and logging."""

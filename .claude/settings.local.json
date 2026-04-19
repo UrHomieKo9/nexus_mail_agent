@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ':*)",
+      "Bash(pandoc \"docs/Nexus Mail Agent.docx\" -o /tmp/nexus_outline.md)",
+      "Read(//tmp/**)"
+    ]
+  }
+}

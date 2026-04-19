@@ -1,0 +1,1 @@
+"""Nexus Mail Agent — FastAPI routes and schemas."""
