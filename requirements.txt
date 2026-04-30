@@ -59,3 +59,4 @@ httpx==0.28.1
 python-dateutil==2.9.0
 python-dotenv==1.0.1
 tenacity==9.0.0
+cryptography==44.0.0
